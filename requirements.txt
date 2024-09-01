@@ -1,1 +1,4 @@
-pyteest
+pytest
+ipython
+lint
+black
